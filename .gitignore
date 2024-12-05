@@ -1,0 +1,115 @@
+## Ignore build output
+[Dd]ebug/
+[Dd]ebugPublic/
+[Dd]ist/
+[Dd]eploy/
+[Dd]ebug*-x64/
+[Dd]ebug*-x86/
+[Dd]eploy/
+
+## Ignore build results from .NET
+bin/
+obj/
+
+## User-specific files
+.vs/
+.idea/
+.vscode/
+
+## User-specific Rider files
+.idea/
+
+## User-specific Visual Studio files
+.vs2019/
+.vs2017/
+
+## ASP.NET Core files
+wwwroot/
+appsettings*.json
+*.bak
+
+## JetBrains Rider specific files
+.idea/
+
+## User-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Ignore database files
+*.mdf
+*.ldf
+
+## Ignore temporary files
+*.bak
+*.sql
+*.log
+
+## Ignore npm/Yarn files
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+## Ignore dotnet restore directory
+project.lock.json
+project.fragment.lock.json
+
+## Ignore Visual Studio for Mac files
+.vscode/
+
+## Ignore Rider specific files
+.idea/
+
+## Ignore Roslyn generated files
+Generated_Code/
+
+## Ignore Xamarim Studio files
+.idea/
+.vscode/
+
+## Ignore publish directory
+Publish/
+
+## Ignore user-specific ASP.NET Core files
+.idea/
+
+## Ignore secrets and keys
+*.pfx
+*.key
+*.cer
+*.pem
+
+## Ignore JetBrains Rider run configuration files
+.idea/.idea_run_configs/
+
+## Ignore coverage and test results files
+TestResults/
+coverage/
+*.trx
+
+## Ignore global tool packages
+global-tools/
+
+## Ignore local user settings for Visual Studio
+.vsconfig
+
+## Ignore Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+## Ignore IIS Express settings
+.IISExpress/
+
+## Ignore JetBrains Rider local settings
+.idea/
+
